@@ -63,6 +63,7 @@ This a well-structured **Awesome List** repository for **Technical Writers & Blo
 - [Grammarly](https://www.grammarly.com/)
 - [ProWritingAid](https://prowritingaid.com/)
 - [Obsidian](https://obsidian.md/) (For note-taking and writing)
+- [WarmQuant](https://warmquant.com/) - Draft English text from notes with writing angles, creator and reader personas, then edit and save the result.
 
 ### 📊 SEO & Analytics
 - [Google Analytics](https://analytics.google.com/)
